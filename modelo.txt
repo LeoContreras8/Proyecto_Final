@@ -1,0 +1,1 @@
+Fecha y hora de ejecución: 2023-07-01 11:26:23,El tiempo de ejecución fue de 259.0257685184479 segundos. Mejores HiperParametros del Random Forest:{'criterion': 'entropy', 'n_estimators': 200},Mejor Metrica:0.9941217707015886
